@@ -1,0 +1,6 @@
+mediapipe
+opencv-python
+
+tensorflow
+imbalanced-learn
+sklearn
