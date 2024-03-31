@@ -1,4 +1,7 @@
 classes_original/
 classes/
+classes_poses_cut/
+classes_poses/
+classes/
 *.h5
 env/
