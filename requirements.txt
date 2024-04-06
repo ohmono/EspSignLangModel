@@ -1,6 +1,6 @@
 mediapipe
 opencv-python
-
 tensorflow
 imbalanced-learn
-sklearn
+scikit-learn
+matplotlib
