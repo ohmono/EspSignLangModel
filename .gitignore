@@ -1,7 +1,8 @@
-classes_original/
-classes/
-classes_poses_cut/
-classes_poses/
-classes/
-*.h5
+classes*
+imgs/
+PDI/
+.venv/
 env/
+*.ipynb_checkpoints/
+*.h5
+*.pdf
