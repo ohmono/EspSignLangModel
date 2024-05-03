@@ -4,3 +4,4 @@ tensorflow
 imbalanced-learn
 scikit-learn
 matplotlib
+scikit-image

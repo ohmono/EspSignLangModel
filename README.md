@@ -14,8 +14,13 @@ Este repositorio contiene el código fuente para un proyecto que implementa un s
 ## Requisitos
 
 - Python 3.7 o superior
-- OpenCV 4.5 o superior
-- MediaPipe 0.8.9 o superior
+- mediapipe
+- opencv-python
+- tensorflow
+- imbalanced-learn
+- scikit-learn
+- matplotlib
+- scikit-image
 
 ## Conceptualización
 
