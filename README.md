@@ -127,6 +127,10 @@ Para ejecutar el proyecto, asegúrate de tener una cámara conectada a tu comput
 
 El modelo de clasificación alcanzó una precisión del 97.89% en el conjunto de datos de prueba. Se utilizó una red neuronal convolucional (CNN) con 3 capas convolucionales y 2 capas densas.
 
+### Video de Demostración
+
+Puedes ver un video de demostración del proyecto en el siguiente enlace:
+
 
 ### Contribuciones
 
