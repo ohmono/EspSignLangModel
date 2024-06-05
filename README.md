@@ -129,7 +129,12 @@ El modelo de clasificación alcanzó una precisión del 97.89% en el conjunto de
 
 ### Documento de Investigación
 
+El documento de investigación se encuentra en la carpeta `docs/` y contiene información detallada sobre el proyecto, el modelo de clasificación y los resultados obtenidos.
 
+### Autores
+
+- [Juan Fernando Cardona Ruiz](https://github.com/ohmono)
+- [Daniela Vásquez londoño](http://github.com/DanielaVL)
 
 ### Contribuciones
 
