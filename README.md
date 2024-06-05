@@ -4,6 +4,10 @@ Este proyecto se desarollo para las materias Procesamiento Digital de Imágenes 
 
 Se utilizan OpenCV y MediaPipe para detectar y clasificar gestos de manos en tiempo real. El objetivo principal es reconocer letras de la lengua de señas americana (ASL) utilizando un modelo de aprendizaje profundo entrenado con TensorFlow y Keras.
 
+## Sustentación
+
+[Video de Demostración](https://www.youtube.com/watch?v=uot3UYsm2V4)
+
 ## Señas Reconocidas
 
 ![[Señas Reconocidas]](data/esp_sign.png)
