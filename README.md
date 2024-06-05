@@ -119,7 +119,7 @@ Para ejecutar el proyecto, asegúrate de tener una cámara conectada a tu comput
 ### Notas
 
 - La clasificación se realiza cada 90 frames para evitar clasificaciones erróneas debido a movimientos rápidos.
-- Las letras 'Q' y 'S' tienen funciones especiales: 'Q' para borrar la última letra y 'S' para añadir un espacio.
+- Las letras 'Q' y 'O' tienen funciones especiales: 'Q' para borrar la última letra y 'O' para añadir un espacio.
 - La letra 'B' se usa para guardar el texto reconocido en un archivo.
 
 
